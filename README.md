@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-Ingatlah bahwasanya automation test bukan hanya sekedar klik dan input disana-sini, lebih dari itu, automation test bertujuan untuk memastikan bahwa system yang dibangun sudah memenuhi ekspektasi.
-
 <!--
 **drl-repo/drl-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
